@@ -102,14 +102,3 @@ dataset/
 - WebRTC requires HTTPS in production — for local use, `localhost` works fine
 
 ---
-
-## 👥 Team
-
-| Name | Roll No |
-|---|---|
-| Supreet Kumar Patel | |
-| Prakhar Patel | |
-| Amrutha Jampala | |
-| Abhiamrit Veera | |
-| Rashu Shankar | |
-| S Priyanshu Nayak | |
