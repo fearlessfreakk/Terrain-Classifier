@@ -1,5 +1,5 @@
-# Model file — too large for GitHub (450MB)
-model/terrain_classifier.h5
+# Model file (17.5MB - safe for GitHub and required for Streamlit Cloud deployment)
+# dataset/ is excluded to keep repository light
 
 # Dataset — do not push to GitHub
 dataset/
