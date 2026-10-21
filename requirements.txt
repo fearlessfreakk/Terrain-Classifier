@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+av
+opencv-python
+tensorflow
+numpy
+Pillow
+pandas
+qrcode
+scikit-learn

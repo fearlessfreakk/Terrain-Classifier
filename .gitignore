@@ -1,0 +1,26 @@
+# Model file — too large for GitHub (450MB)
+model/terrain_classifier.h5
+
+# Dataset — do not push to GitHub
+dataset/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Logs — generated at runtime
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
